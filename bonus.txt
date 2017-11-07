@@ -1,0 +1,3 @@
+Bonus
+
+The program is able to read any customized map in 25*79. Any shape of chamber is allowed. You many also create more or less chambers. The spawn rule remains unchanged even though number of chambers got changed.
